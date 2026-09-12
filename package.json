@@ -1,0 +1,13 @@
+{
+  "name": "velo",
+  "version": "1.0.0",
+  "description": "Minimalist Engineering Workspace & Issue Tracker",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/server.test.js"
+  },
+  "author": "Doston Sulaymon",
+  "license": "MIT"
+}
